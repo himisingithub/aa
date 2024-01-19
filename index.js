@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Official Bot"];
+const statusMessages = ["𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗠𝗥𝗟 𝗹𝗲𝗮𝗴𝘂𝗲 𝗕𝗼𝘁"];
 
 
 let currentIndex = 0;
